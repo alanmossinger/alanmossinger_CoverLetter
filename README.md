@@ -2,7 +2,7 @@ With over 20 years of experience in energy and data science, I am a master geosc
 
 My passion lies in transforming complex data into strategic business insights. By integrating traditional business methods with cutting-edge AI and machine learning, I deliver timely, actionable solutions that optimize performance in the energy sector and beyond. I hold a Master of Science in Reservoir Engineering, an Executive MBA. Moreover, I am currently completing a Master’s in Applied Data Science from University of Michigan and Data Engineering program from MIT.
 
-If you're looking for a leader and technical professional who bridges the gap between AI, data science, business intelligence, and strategic decision-making, let's connect.
+If you're looking for an executive leader and technical professional who bridges the gap between AI, data science, business intelligence, and strategic decision-making, let's connect.
 
 https://medium.com/@alanmossinger
 https://github.com/alanmossinger
