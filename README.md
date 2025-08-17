@@ -1,28 +1,46 @@
-With over 20 years of experience at the intersection of energy and data science, I have built a career defined by innovation, leadership, and a relentless pursuit of excellence. As a master geoscientist and seasoned project manager at Petrobras, I have spearheaded data-driven initiatives that not only delivered significant business value but also pushed the boundaries of industry standards. From contributing to the discovery of pre-salt reserves—South America's largest hydrocarbon accumulation—to founding VEX, a multi-regional enterprise operating across the USA, Europe, and South America, my journey has been marked by multidisciplinary expertise and a steadfast commitment to impactful leadership.
+# 👋 Hi, I’m Alan Mössinger  
 
-Key Highlights of My Professional Journey:
+With 20+ years at the intersection of **energy and data science**, I’ve built a career defined by **innovation, leadership, and digital transformation**. From leading AI-driven exploration at Petrobras to founding **VEX Holding**, I specialize in bridging **traditional industries** with **cutting-edge AI solutions**.  
 
-Transformative Leadership at Petrobras:
-I led teams that implemented cutting-edge analytics and machine learning solutions, revolutionizing traditional exploration and production methods. My work has directly contributed to enhanced operational efficiencies, cost savings, and improved decision-making processes.
+---
 
-Entrepreneurial Ventures:
-As the founder and CEO of VEX, I have navigated the complexities of startup ecosystems across diverse geographies. This role has sharpened my ability to drive digital transformation, manage cross-functional teams, and execute strategies that yield tangible business results.
+## 🚀 Key Highlights
+- **Petrobras Leadership**: Coordinated multi-billion-dollar exploration assurance portfolio, implemented ML/AI to cut cycle times, and contributed to the discovery of South America’s largest pre-salt reserves.  
+- **Entrepreneurship**: Founder & CEO of **VEX Holding**, driving AI, healthcare, Start-ups, and sustainability ventures across the USA, Europe, and South America.  
+- **Digital Innovation**: Passionate about transforming complex datasets into actionable insights through ML, AI, and advanced analytics.  
 
-Bridging Traditional Expertise with Digital Innovation:
-I am passionate about transforming complex data into actionable business insights. By integrating time-tested geoscience methods with state-of-the-art AI and machine learning technologies, I have consistently delivered solutions that optimize performance not only in the energy sector but also across other industries seeking digital transformation.
+---
 
-Ongoing Commitment to Excellence:
-I hold a Master of Science in Reservoir Engineering and an Executive MBA with a focus on Strategy. Currently, I am further enhancing my technical and leadership capabilities by pursuing a Master’s in Applied Data Science from the University of Michigan and a Data Engineering program at MIT. These experiences are equipping me with the latest tools and methodologies to lead organizations into the future.
+## 📚 Education & Ongoing Development
+- 🎓 M.Sc. Reservoir Engineering – IFP School, France  
+- 🎓 Executive MBA (Strategy) – COPPEAD UFRJ  
+- 📘 M.S. Applied Data Science (Expected 2026) – University of Michigan  
+- 📘 Data Engineering (2025) – MIT xPRO  
+- 🏅 **MIT Sloan – Executive Program in General Management (EPGM)**  
+- 🏅 **Harvard Business School – Advanced Management Program (AMP)**  
+- 🏅 **Stanford University – Energy Innovation & Emerging Technologies Certificate**  
 
-My career has been built on a foundation of deep technical knowledge, strategic vision, and a proactive approach to solving complex problems. I believe that effective leadership lies in bridging the gap between data science, business intelligence, and strategic decision-making. My track record demonstrates that I can drive innovation while delivering measurable results, making me uniquely qualified to contribute as a top-level executive.
+---
 
-If you are seeking an executive leader who not only understands the intricacies of energy and geoscience but also possesses the technical expertise to leverage digital technologies for transformative growth, I would welcome the opportunity to connect. Let’s explore how we can work together to shape the future of your organization.
+## 🛠️ Tech & Tools
+- **Languages**: Python, SQL
+- **ML/AI**: Scikit-learn, TensorFlow, PyTorch  
+- **Data**: Pandas, NumPy, Spark, Big Data pipelines  
+- **Cloud**: AWS, GCP, Azure (experience in scaling AI/ML workloads)  
+- **Other**: Git, Docker
 
-Thank you for considering my application. I look forward to the possibility of discussing how my background, skills, and vision align with your strategic goals.
+---
 
-Sincerely,
+## ✍️ Thought Leadership
+I’ve published **35+ articles** on AI, energy transition, and digital strategy — averaging **30K+ views each**.  
+📖 [Read my articles on Medium](https://medium.com/@alanmossinger)  
 
-Alan Mössinger
-https://medium.com/@alanmossinger
-https://github.com/alanmossinger
-https://hospitalvex.com/sobre/
+---
+
+## 🌍 Let’s Connect
+- 💼 [LinkedIn](https://linkedin.com/in/alan-mössinger)  
+- 🐙 [GitHub Projects](https://github.com/alanmossinger)  
+- ✉️ alanmossinger@gmail.com  
+
+---
+
