@@ -23,9 +23,12 @@ Education
 M.S. Applied Data Science — University of Michigan
 M.Sc. Reservoir Engineering — IFP School, France
 Executive MBA (Strategy) — COPPEAD / UFRJ
-Executive Program in General Management (EPGM) — MIT Sloan
+Executive Program in General Management (EPGM) — MIT Sloan School of Management
 Advanced Management Program (AMP) — Harvard Business School
 Energy Innovation & Emerging Technologies — Stanford University
+MIT Data Engineering Certificate
+Post-Graduation in Petroleum Geology
+B.S. in Geology
 
 
 Writing
