@@ -1,13 +1,12 @@
 # Alan Mössinger
 
-### Founder, VEX Holding
 **Industrial AI | Energy & Infrastructure | Executive Strategy & Capital Allocation**
 
 ## Where Deep Industry Expertise Meets AI and Executive Leadership
 
 I am an industrial AI executive, entrepreneur, and energy professional operating at the intersection of **three complementary disciplines: Energy & Industrial Operations, Artificial Intelligence & Data Science, and Executive Strategy & Capital Allocation.**
 
-With 20 years at Petrobras, I have led multidisciplinary teams, data science initiatives, and portfolio decision-support activities in complex, capital-intensive energy environments. My experience combines technical depth in exploration and production with leadership in digital transformation, operational optimization, and investment decision-making.
+With 20 years at Petrobras, and VEX Holding Founder, I have led multidisciplinary teams, data science initiatives, and portfolio decision-support activities in complex, capital-intensive energy environments. My experience combines technical depth in exploration and production with leadership in digital transformation, operational optimization, and investment decision-making.
 
 ### My Three Areas of Expertise
 
