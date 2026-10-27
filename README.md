@@ -35,7 +35,7 @@ This GitHub portfolio presents reproducible research, engineering implementation
 
 Education
 
-M.S. Applied Data Science : AI Concentration — University of Michigan
+M.S. Applied Data Science : AI Concentration — University of Michigan School of Information, USA
 M.Sc. Reservoir Engineering — IFP School, France
 Executive MBA (Strategy) — COPPEAD / UFRJ
 Executive Program in General Management (EPGM) — MIT Sloan School of Management
